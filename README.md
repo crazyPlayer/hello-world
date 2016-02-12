@@ -4,5 +4,5 @@
 ```javascript
 (function(me){
 document.write('hello,'+me);
-})(rxMa)
+})('rxMa')
 ```
